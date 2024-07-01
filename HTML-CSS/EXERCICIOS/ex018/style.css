@@ -1,0 +1,33 @@
+@charset "utf8";
+body{
+    background-image: linear-gradient(to right, black, black);
+}
+h1{
+    color: blueviolet;
+}
+h1#principal{
+    text-align: center;
+    background: linear-gradient(to right, black, white);
+    color: white;
+    
+}
+.basico{
+    color: chartreuse;
+    text-align: justify;
+}
+
+.intermediario{
+    color: yellow;
+    text-align: justify;
+}
+
+.avancado{
+    color: red;
+    text-align: justify;
+}
+p{
+    color: white;
+}
+.destaque{
+    background-color: aliceblue;
+}

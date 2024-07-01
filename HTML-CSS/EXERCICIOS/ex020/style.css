@@ -1,0 +1,21 @@
+h1{
+    width: 350px;
+    height: 50px;
+    background-color: brown;
+    border-width: 10px;
+    border-style: double;
+    border-color: aliceblue;
+    padding: 20px;
+    outline-width: 30px;
+    outline-color: aqua;
+    outline-style: solid;
+    margin-top: 100px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+    margin-left:50px ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    display: block;
+    background-color: aqua;
+}
